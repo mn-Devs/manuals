@@ -9,7 +9,7 @@ In this document i'll explain how you can deploy a deployment server using:
 - Debian 11
 - Fog Project 1.59.159
 
-## What is Fog
+## What is FOG
 
 Fog is a deployment server with webinterface witch allows you to deploy and manage x86 based hardware.
 I has a lot of features such as:
